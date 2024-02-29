@@ -1,0 +1,3 @@
+- 👋 Hello! My name is Arnold, and I'm currently a student studying Cyber Security and Networks at the University of East London.
+- I'm passionate about learning how to protect digital systems, networks, and programs from digital attacks and ensuring the integrity, confidentiality, and availability of information.
+- Feel free to connect with me on LinkedIn or send me an email at arnold_malaj@outlook.com for any inquiries, collaborations, or just to say hi!
